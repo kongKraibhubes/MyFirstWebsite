@@ -1,0 +1,20 @@
+header,
+article {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(219, 219, 219);
+}
+
+td {
+  padding: 10px;
+}
+
+img {
+  border-style: groove;
+}
+
+#Test {
+  color: rgb(0, 0, 111);
+}
